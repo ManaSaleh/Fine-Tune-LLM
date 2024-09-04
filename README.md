@@ -25,14 +25,13 @@ This project deploys a comprehensive search engine application using embeddings,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/search-unsloth.git
+   git clone https://github.com/ManaSaleh/Fine-Tune-LLM.git
    cd search-unsloth
    ```
 
 2. **Install Python Dependencies**:
    Install the necessary Python packages using:
    ```bash
-   cd Fine-Tune-LLM/search-unsloth
    pip install -r requirements.txt
    ```
 
@@ -53,7 +52,7 @@ This project deploys a comprehensive search engine application using embeddings,
   python app.py
   ```
 
-## Class Workflow Overview
+## Workflow Overview
 
 1. **Tuning on Train Data**: Fine-tunes the model based on provided training data to enhance performance.
 2. **Import Tuning**: Applies necessary tuning configurations.
