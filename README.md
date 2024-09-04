@@ -1,6 +1,6 @@
 # Search Unsloth Deployment
 
-This project deploys a comprehensive search engine application using embeddings, Qdrant for vector search, and Retrieval-Augmented Generation (RAG) for text generation. The entire pipeline is managed through a single class-based script, `deploy.py`, which automates data processing, tuning, embedding generation, and interaction with Qdrant.
+This project deploys a comprehensive search engine application using embeddings, Qdrant for vector search, and Retrieval-Augmented Generation (RAG) for text generation. The entire pipeline is managed through a single class-based script, `app.py`, which automates data processing, tuning, embedding generation, and interaction with Qdrant.
 
 ## Features
 
